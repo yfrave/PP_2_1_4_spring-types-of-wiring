@@ -12,6 +12,7 @@ public class Island2 {
 
     @Override
     public String toString() {
+
         return ", на острове дерево " + wood.toString();
     }
 }
